@@ -52,11 +52,19 @@
           "@types/node": "^20.10.0",
           "@vitejs/plugin-react-swc": "^3.10.2",
           "vite": "6.3.5"
+<<<<<<< HEAD
         },
         "engines": {
             "node": ">=18"
         },
         "scripts": {
+=======
+      },
+    "engines": {
+            "node": ">=18"
+        },
+      "scripts": {
+>>>>>>> 099e5890e712c7d0d9443982db9045a0abfa751e
           "dev": "vite",
           "build": "vite build"
       }
