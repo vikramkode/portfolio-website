@@ -50,13 +50,8 @@
       },
     },
     build: {
-<<<<<<< HEAD
-    target: 'esnext',
-    outDir: 'dist',
-=======
       target: 'esnext',
       outDir: 'dist',
->>>>>>> 099e5890e712c7d0d9443982db9045a0abfa751e
     },
     server: {
       port: 3000,
